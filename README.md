@@ -96,4 +96,3 @@ pytest tests/test_service.py
 - Suporte a múltiplas conexões simultâneas (`asyncio` ou `threading`)
 - Filtros por intervalo (ex: `price_min`, `year_max`)
 - Log de requisições recebidas
-- Monitoramento via interface web ou CLI
