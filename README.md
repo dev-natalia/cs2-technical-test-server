@@ -33,7 +33,7 @@ python app/scripts/db_insert_fake_data.py
 ### 2. Inicie o servidor:
 
 ```bash
-python app/mcp_server.py
+python mcp_server.py
 ```
 
 Ele ficará ouvindo na porta `5000`.
